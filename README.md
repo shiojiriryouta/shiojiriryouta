@@ -1,8 +1,8 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1. I'm a Japanese Master student in Japan
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+2. My favorites are React, Next.js, TypeScript, JavaScript, Python
 
 3. You can find my works at [アルティメット・グルメ・ジャッジメント](https://vercel.com/shiojiriryoutas-projects/restaurant-get) [Vending Machine Searcher](https://jigintern-2022-summer-1-b.deno.dev/)
 
